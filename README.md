@@ -8,5 +8,5 @@ Economics PhD candidate from Taiwan who fell in love with machine learning. Buil
 
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/chia-hung-kuo](https://linkedin.com/in/chia-hung-kuo/)
-- 🌐 Portfolio: [kuochh.github.io](https://kuochh.github.io)
+- LinkedIn: [linkedin.com/in/chia-hung-kuo](https://linkedin.com/in/chia-hung-kuo/)
+- Portfolio: [kuochh.github.io](https://kuochh.github.io)
